@@ -11,5 +11,9 @@ This converter was created based on personal preference for Automatarium over JF
 - Full compatibility with the latest version of JFLAP
 - Easy usage with a command-line interface
 
+## TODO
+- Enhance CLI interactivity for a more engaging user experience.
+- Develop a converter for Turing machines
+
 ## Requirements
 - Python 3.x
